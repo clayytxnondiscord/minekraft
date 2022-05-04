@@ -9,7 +9,7 @@ Legacy (Flagged): https://cdn.discordapp.com/attachments/970963972339662899/9709
 How to setup: 
 
 Self Explanatory,
-Disable windows defender (hacc client?)
+Disable windows defender for flagged (hacc client?)
 Use your brain
 
 Features: Mainly horion + a few others (im lazy)
